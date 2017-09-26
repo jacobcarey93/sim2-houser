@@ -1,0 +1,9 @@
+.StepHighlight__container {
+    width: 100%;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: justify;
+        justify-content: space-between;
+    margin-top: 20px;
+  }
+  

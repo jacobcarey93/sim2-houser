@@ -1,0 +1,39 @@
+.Step2__address_container {
+    width: 70%;
+  }
+  
+  .Step2__middle_container {
+    width: 70%;
+    margin-top: 20px;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  
+  .Step2__city_container {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    width: 50%;
+  }
+  
+  .Step2__state_container {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    width: 50%;
+  }
+  
+  .Step2__zip_container {
+    width: 70%;
+    margin-top: 20px;
+  }
+  
+  .Step2__zipInput_container {
+    width: 70%;
+  }
+  
+  .Step2__zip_input {
+    width: 35% !important;
+  }
